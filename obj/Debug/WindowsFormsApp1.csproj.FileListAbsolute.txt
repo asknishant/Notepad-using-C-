@@ -1,0 +1,19 @@
+D:\ITSSB\CalculatorApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ITSSB\CalculatorApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ITSSB\CalculatorApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ITSSB\CalculatorApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\ITSSB\CalculatorApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ITSSB\CalculatorApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\ITSSB\CalculatorApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\ITSSB\CalculatorApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ITSSB\CalculatorApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\ITSSB\Training 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ITSSB\Training 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ITSSB\Training 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ITSSB\Training 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\ITSSB\Training 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ITSSB\Training 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\ITSSB\Training 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\ITSSB\Training 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ITSSB\Training 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\ITSSB\Training 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
